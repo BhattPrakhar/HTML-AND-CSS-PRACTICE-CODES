@@ -1,0 +1,33 @@
+h1{
+    font-size: 35px;
+    text-align: center;
+}
+p{
+    text-align: center;
+    text-decoration:underline;
+}
+button{
+    text-align: center;
+    border-width: 2px;
+    border-style:dotted;
+    border-color:black;
+    background-color:purple;
+    border-color: brown;
+    margin:25px q 
+
+}
+div{
+    height:100px;
+    background-color:pink;
+    /* border-width:5px; */
+    width:100px;
+    /* border-style:solid; */
+    background-color:purple;
+    /* border-color: blue; */
+    text-align:center;
+    border:3px,solid,black;
+    border-radius: 25px;
+    /* border-radius: 50%;-> for circles */
+    padding-left: 20px;
+    padding:25px;   
+}

@@ -1,0 +1,58 @@
+
+/* Asterisk used to provide the all property at once */
+/* *{
+color:yellow;              
+} */
+h1{ 
+    /* for heading */
+    color:red;
+}
+p{
+    /* for paragraph */
+    color:green;
+}
+button{
+    color:black;
+    background-color:rgb(98,47,255);
+}
+body{
+    background-color:#363E;
+}
+/* we can access according to name also in CSS */
+#HeadingOne{
+    color:darkgoldenrod;
+    font-weight: lighter;
+}
+#Heading_Two{
+    color:purple;
+}
+.my_Class{
+    color: CHOCOLATE;
+}
+#one{
+    text-align: center;
+    text-decoration: red wavy underline;
+    font-family:arial;
+    line-height: 32px;
+    text-transform: capitalize;
+
+}
+h5{
+    text-align: center;
+    text-decoration:dotted overline;
+    text-decoration: dotted line-through;
+    text-transform: capitalize;
+} 
+a{
+    text-decoration: none;
+}
+#two{
+    font-family:cursive;
+}
+#three{
+    font-size: 25px;
+    text-transform: uppercase;
+}
+#four{
+    line-height: 5px;
+}
